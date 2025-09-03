@@ -1,4 +1,4 @@
-package br.edu.ifsp.demo_clean.model;
+package br.edu.ifsp.demo_clean.models;
 
 import jakarta.persistence.*;
 import java.time.LocalDate;
